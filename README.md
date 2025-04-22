@@ -16,6 +16,6 @@ The app demonstrates fundamental React concepts such as components, JSX, props, 
 
 ## Screenshots
 
-![App Preview](screenshot.png) <!-- Optional: add a screenshot if you want -->
+![App Preview](screenshot.png)
 
 
